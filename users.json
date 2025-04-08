@@ -1,0 +1,10 @@
+{
+    "krishna": "123",
+    "hello": "1",
+    "ganesh": "1",
+    "ganes": "23",
+    "devil": {
+        "password": "scrypt:32768:8:1$EKquZBhsqdyQ6nOG$7690227833cdac34c8615523fce67ad53d913ce3affd96755c282e258b37df28c150bed038e6fcc9da5d66d47e5a2b862e0f4d2e9fa51c5cf26396d78e22405e",
+        "points": 0
+    }
+}

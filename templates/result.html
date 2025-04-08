@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Classification Result</title>
+    <style>
+        body { font-family: Arial, sans-serif; max-width: 600px; margin: 0 auto; padding: 20px; }
+        .container { text-align: center; margin-top: 50px; }
+        .result { margin-top: 30px; padding: 20px; border-radius: 5px; }
+        .food { background-color: #d4edda; color: #155724; }
+        .non-food { background-color: #f8d7da; color: #721c24; }
+        img { max-width: 100%; height: auto; margin-top: 20px; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Classification Result</h1>
+        <div class="result {% if result.is_food %}food{% else %}non-food{% endif %}">
+            {% if result.is_food %}
+                <h2>🍎 Food Detected!</h2>
+            {% else %}
+                <h2>📦 Non-Food Detected!</h2>
+            {% endif %}
+            <p>Confidence: {{ (result.confidence * 100)|round(2) }}%</p>
+        </div>
+        <img src="{{ result.image_path }}" alt="Uploaded Image">
+        <p><a href="/">Try another image</a></p>
+    </div>
+</body>
+</html>

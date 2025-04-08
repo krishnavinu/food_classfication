@@ -1,0 +1,62 @@
+[
+    {
+        "name": "Sneha Jyothi Orphan Children's Home",
+        "location": "Thagachaguppe Village, Bengaluru, Karnataka, India",
+        "google_maps": "https://goo.gl/maps/xyz123",
+        "needs": ["Food", "Clothes", "Education", "Health", "Celebration", "Women Care"]
+    },
+    {
+        "name": "Abhayadhama (Home for Street Boys)",
+        "location": "Human Development Centre, Whitefield Post, Bengaluru 560066, Karnataka, India",
+        "google_maps": "https://goo.gl/maps/xyz456",
+        "needs": ["Food", "Shelter", "Education"]
+    },
+    {
+        "name": "Bala Yesu Bhavan",
+        "location": "SOS Post, Kalena Agrahara, Bannerghatta Road, Bengaluru 560076, Karnataka, India",
+        "google_maps": "https://goo.gl/maps/xyz789",
+        "needs": ["Food", "Medical Supplies", "Toys"]
+    },
+    {
+        "name": "Calabrian Children Home",
+        "location": "SH KRIPA, No. 63, Harohalli Road, Huskuru Post, Bengaluru 560099, Karnataka, India",
+        "google_maps": "https://goo.gl/maps/xyz101",
+        "needs": ["Books", "Clothes", "School Supplies"]
+    },
+    {
+        "name": "Good Shepherd Home for the Children",
+        "location": "Museum Road, Bengaluru 560025, Karnataka, India",
+        "google_maps": "https://goo.gl/maps/xyz202",
+        "needs": ["Clothes", "Food", "Shelter"]
+    },
+    {
+        "name": "Makkala Jeevodaya",
+        "location": "Medico Social Centre, Maruthinagara, 1st Main, 1st Cross, Madivala, Bengaluru 560068, Karnataka, India",
+        "google_maps": "https://goo.gl/maps/xyz303",
+        "needs": ["Toys", "Clothes", "Books"]
+    },
+    {
+        "name": "Namma Kutumbashrama (Home for Abandoned Women & Children)",
+        "location": "No. 31/60, Shakti Nagara, Bengaluru 560016, Karnataka, India",
+        "google_maps": "https://goo.gl/maps/xyz404",
+        "needs": ["Food", "Shelter", "Medical Assistance"]
+    },
+    {
+        "name": "Nirmala Shishu Bhavan",
+        "location": "No. 4, Hennur Main Road, Lingarajapuram, Bengaluru 560084, Karnataka, India",
+        "google_maps": "https://goo.gl/maps/xyz505",
+        "needs": ["Clothes", "Toys", "Books"]
+    },
+    {
+        "name": "St. Mary’s Orphanage",
+        "location": "No. 8, 2nd Cross, Da’Costa Layout, St Thomas Town Post, Bengaluru 560084, Karnataka, India",
+        "google_maps": "https://goo.gl/maps/xyz606",
+        "needs": ["Food", "Clothes", "Educational Materials"]
+    },
+    {
+        "name": "St. Patrick’s Orphanage (For Boys)",
+        "location": "No. 15K, Brigade Road, Bengaluru 560025, Karnataka, India",
+        "google_maps": "https://goo.gl/maps/xyz707",
+        "needs": ["Shelter", "Books", "Medical Aid"]
+    }
+]
