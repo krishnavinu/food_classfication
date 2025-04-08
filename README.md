@@ -27,7 +27,9 @@ A web application that connects donors with orphanages and old age homes, featur
 ### Database
 - SQLite (development)
 - PostgreSQL (production)
-
+### dataset
+- install food 5k dataset from kaggle
+  
 ## Installation
 
 1. **Clone the repository**:
